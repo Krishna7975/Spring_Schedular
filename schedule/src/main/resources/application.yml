@@ -1,0 +1,12 @@
+
+server:
+  port: 1111
+
+#scheduler:
+#  cron: */10 * * * * *
+
+email:
+  sendgrid:
+    from-email: krishna03062k@gmail.com
+    to-email: krishnashashank123@gmail.com
+    cc-email: krishna.shashank@tetruscorp.com
